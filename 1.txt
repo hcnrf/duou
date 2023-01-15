@@ -15,10 +15,6 @@
             "name": "🚀肥猫线路"
         },
         {
-            "url": "http://shagua888168.3vdo.club",
-            "name": "🚀蓝魔线路"
-        },
-        {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "🚀小苹果线路"
         },
