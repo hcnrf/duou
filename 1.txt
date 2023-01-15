@@ -40,7 +40,7 @@
         }, 
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "🚀霜辉月明py"
+            "name": "🚀霜辉月明"
         },
         {
             "url": "http://dxawi.github.io/0/0.json",
