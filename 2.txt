@@ -19,7 +19,7 @@
             "name": "🐹星辰线路"
         },        
         {
-            "url": "https://qtyang.xmzb.xyz/cps/%E5%85%A8%E7%AB%99.json",
+            "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "🐹潇洒线路"
         },
         {
