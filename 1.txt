@@ -28,7 +28,7 @@
         },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀饭太硬线路"
+            "name": "🚀巧记线路"
         },
         {
             "url": "http://101.34.67.237/config/3",
