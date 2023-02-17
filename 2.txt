@@ -29,10 +29,10 @@
         {
             "url": "http://52bsj.vip:98/wuai",
             "name": "🐹吾爱线路"
-        },  
+        },          
         {
-            "url": "http://111.67.196.181/mtv/meow.txt",
-            "name": "🐹太阳线路"
+            "url": "http://miaotvs.cn/meow",
+            "name": "🐹喵影视线路"
         },
         {
             "url": "https://源享家.ml/46812",
