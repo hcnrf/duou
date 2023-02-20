@@ -31,7 +31,7 @@
             "name": "🐹吾爱线路"
         },          
         {
-            "url": "http://miaotvs.cn/meow",
+            "url": "http://111.67.196.181/mtv/meow.txt",
             "name": "🐹喵影视线路"
         },
         {
