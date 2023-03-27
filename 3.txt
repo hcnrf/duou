@@ -27,7 +27,7 @@
             "name": "💎佰欣园线路"
         },
         {
-            "url": "https://raw.fastgit.org/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com//kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
             "name": "💎甜蜜线路"
         },
         {
