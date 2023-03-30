@@ -21,7 +21,11 @@
         {
             "url": "http://饭太硬.ga/tv",
             "name": "🚀饭太硬线路"
-        },               
+        },
+        {
+            "url": "https://yydsys.top/lm.json",
+            "name": "🚀龙门影视"
+        },  
         {
             "url": "http://tvbo.run.goorm.site/tangs.json",
             "name": "🚀唐三线路"
