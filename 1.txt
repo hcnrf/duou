@@ -71,8 +71,8 @@
             "name": "🚀老刘备线路"
         },
         {
-            "url": "https://app.easybox.vip/dy",
-            "name": "🚀easybox线路"
+            "url": "https://gitee.com/lekanbox/ysc/raw/master/ysc.json",
+            "name": "🚀运输车线路"
         }
     ]
 }
