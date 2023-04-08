@@ -12,7 +12,7 @@
         },
         {
             "url": "https://yydsys.top/duo/x.json",
-            "name": "🚀阿里扫码专线"
+            "name": "🚀阿里专线"
         }, 
         {
             "url": "http://饭太硬.ga/tv",
