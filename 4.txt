@@ -1,8 +1,8 @@
 {
     "urls": [
            {
-            "url":"https://nobug.eu.org/duo/v.json",
-            "name": " 🐞切换线路后请手动刷新"
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "🔔切换线路后请手动刷新"
         },
           {
             "url":"https://yydsys.top/duo",
