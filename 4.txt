@@ -10,19 +10,19 @@
          },
           {
             "url":"https://download.kstore.space/download/3313/mao/ymz",
-            "name": "🐰夜猫子线路"
+            "name": "🏄️夜猫子线路"
         },
           {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-            "name": "🐰荷城茶秀"
+            "name": "🏄️荷城茶秀"
         }, 
           {
             "url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🐰高天流云"
+            "name": "🏄️高天流云"
         }, 
           {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/2023.json",
-            "name": "🐰Yosakoii"
+            "name": "🏄️Yosakoii"
         },
           {
             "url":"https://yydsys.top/duo",
