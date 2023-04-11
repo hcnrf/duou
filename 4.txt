@@ -9,12 +9,12 @@
             "name": "应用多多家庭版"
          },
           {
-            "url":"https://yydsys.top/duo",
-            "name": "待添加"
+            "url":"https://download.kstore.space/download/3313/mao/ymz",
+            "name": "🐰夜猫子线路"
         },
           {
-            "url":"https://yydsys.top/duo",
-            "name": "待添加"
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+            "name": "🐰荷城茶秀"
         }, 
           {
             "url":"https://yydsys.top/duo",
