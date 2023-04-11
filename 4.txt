@@ -25,12 +25,12 @@
             "name": "🏄️Yosakoii"
         },
           {
-            "url":"https://yydsys.top/duo",
-            "name": "待添加"
+            "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "name": "🏄️胖鸭线路"
         },
           {
-            "url":"https://yydsys.top/duo",
-            "name": "待添加"
+            "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "🏄️元兴线路"
         },
           {
             "url":"https://yydsys.top/duo",
