@@ -17,8 +17,8 @@
             "name": "🐰荷城茶秀"
         }, 
           {
-            "url":"https://yydsys.top/duo",
-            "name": "待添加"
+            "url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🐰高天流云"
         }, 
           {
             "url":"https://yydsys.top/duo",
