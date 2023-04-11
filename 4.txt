@@ -21,12 +21,8 @@
             "name": "🐰高天流云"
         }, 
           {
-            "url":"https://yydsys.top/duo",
-            "name": "待添加"
-        }, 
-          {
-            "url":"https://yydsys.top/duo",
-            "name": "待添加"
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/2023.json",
+            "name": "🐰Yosakoii"
         },
           {
             "url":"https://yydsys.top/duo",
