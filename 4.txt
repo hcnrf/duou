@@ -6,7 +6,7 @@
         },
           {
             "url":"https://yydsys.top/duo",
-            "name": "应用多多家庭版"
+            "name": "🏡应用多多家庭版"
          },
           {
             "url":"https://download.kstore.space/download/3313/mao/ymz",
