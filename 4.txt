@@ -32,10 +32,6 @@
             "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
             "name": "🏄️元兴线路"
         },
-        {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "🏄️巧技线路"
-        },
           {
             "url":"https://yydsys.top/duo",
             "name": "待添加"
