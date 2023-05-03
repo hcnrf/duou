@@ -49,10 +49,6 @@
         {
             "url": "https://szyyds.cn/tv/tvbox.json",
             "name": "💎小马线路"
-        },
-        {
-            "url": "https://tv.5ye.cc/",
-            "name": "💎二哈线路"
         }
     ]
 }
