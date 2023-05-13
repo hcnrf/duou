@@ -21,11 +21,7 @@
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "🚀肥猫线路"
-        },
-        {
-            "url": "https://yydsys.top/duo/lm.json",
-            "name": "🚀龙门线路"
-        },                  
+        },                
         {
             "url": "http://tvbo.run.goorm.site/tangs.json",
             "name": "🚀唐三线路"
@@ -51,6 +47,10 @@
             "name": "🚀俊佬线路"
         }, 
         {
+            "url": "https://weixine.net/ysc.json",
+            "name": "🚀运输车线路"
+        },        
+        {
             "url": "https://raw.gitmirror.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀霜辉月明"
         },
@@ -67,8 +67,8 @@
             "name": "🚀老刘备线路"
         },
         {
-            "url": "https://weixine.net/ysc.json",
-            "name": "🚀运输车线路"
+            "url": "https://agit.ai/leevi/apps/raw/branch/main/ly.json",
+            "name": "🚀恋影线路"
         }
     ]
 }
