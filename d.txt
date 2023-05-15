@@ -13,15 +13,15 @@
             "name": "🏄️夜猫子线路"
         },
           {
-            "url":"https://raw.gitmirror.com/XiaoYiChaHang/tvbox/main/ysj.json",
+            "url":"https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json",
             "name": "🏄️荷城茶秀"
         }, 
           {
-            "url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/js.json",
+            "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/js.json",
             "name": "🏄️高天流云"
         }, 
           {
-            "url":"https://raw.gitmirror.com/Yosakoii/Yosakoii.github.io/main/2023.json",
+            "url":"https://raw.iqiq.io/Yosakoii/Yosakoii.github.io/main/2023.json",
             "name": "🏄️Yosakoii"
         },
           {
