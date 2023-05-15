@@ -27,7 +27,7 @@
             "name": "🚀唐三线路"
         },      
         {
-            "url": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://raw.iqiq.io//FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         },                                                               
         {
@@ -51,7 +51,7 @@
             "name": "🚀运输车线路"
         },        
         {
-            "url": "https://raw.gitmirror.com/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://raw.iqiq.io//lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀霜辉月明"
         },
         {
