@@ -67,7 +67,7 @@
             "name": "🚀老刘备线路"
         },
         {
-            "url": "https://agit.ai/leevi/apps/raw/branch/main/ly.json",
+            "url": "https://www.lianyingtv.com/fast/fast",
             "name": "🚀恋影线路"
         }
     ]
