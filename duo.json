@@ -33,10 +33,6 @@
             "name": "🚀道长线路"
         }, 
         {
-            "url": "https://weixine.net/ysc.json",
-            "name": "🚀运输车线路"
-        }, 
-        {
             "url": "https://agit.ai/leevi/apps/raw/branch/main/xpg.json",
             "name": "🚀小苹果线路"
         },                     
@@ -80,6 +76,10 @@
             "url": "http://52bsj.vip:98/wuai",
             "name": "🐹吾爱线路"
         },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "🐹运输车线路"
+        },         
         {
             "url": "https://源享家.ml/45127",
             "name": "🐹源享家线路"
