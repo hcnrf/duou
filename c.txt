@@ -47,7 +47,7 @@
             "name": "💎zzz1线路"
         },
         {
-            "url": "https://szyyds.cn/tv/tvbox.json",
+            "url": "https://szyyds.cn/tv/x.json",
             "name": "💎小马线路"
         }
     ]
