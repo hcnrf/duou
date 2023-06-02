@@ -27,7 +27,7 @@
             "name": "🚀唐三线路"
         },      
         {
-            "url": "https://raw.iqiq.io//FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         },                                                               
         {
@@ -45,13 +45,9 @@
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬线路"
-        }, 
+        },     
         {
-            "url": "https://weixine.net/ysc.json",
-            "name": "🚀运输车线路"
-        },        
-        {
-            "url": "https://raw.iqiq.io//lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀霜辉月明"
         },
         {
@@ -67,8 +63,8 @@
             "name": "🚀老刘备线路"
         },
         {
-            "url": "https://www.lianyingtv.com/fast/fast",
-            "name": "🚀恋影线路"
+            "url": "https://weixine.net/ysc.json",
+            "name": "🚀运输车线路"
         }
     ]
 }
