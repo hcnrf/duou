@@ -37,7 +37,11 @@
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "🚀菜妮丝线路"
-        },     
+        }, 
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米线路"
+        },            
         {
             "url": "http://101.34.67.237/config/1",
             "name": "🚀小雅线路"
