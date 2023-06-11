@@ -55,7 +55,7 @@
             "name": "🚀霜辉月明"
         },
         {
-            "url": "http://dxawi.github.io/0/0.json",
+            "url": "https://xhdwc.tk/0",
             "name": "🚀dxawi0线路"
         },
         {
