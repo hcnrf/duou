@@ -3,15 +3,15 @@
 {
     "urls": [
         {
-            "url": "http://yydsys.top/duo/v.json",
+            "url": "https://yydsys.top/duo/v.json",
             "name": "🔔切换线路后务必刷新接口"
         },
         {
-            "url": "http://yydsys.top/duo",
+            "url": "https://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "http://yydsys.top/duo/ali",
+            "url": "https://yydsys.top/duo/ali",
             "name": "🚀阿里精品专线"
         }, 
         {
