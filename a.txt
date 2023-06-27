@@ -7,11 +7,11 @@
             "name": "🔔切换线路后务必刷新接口"
         },
         {
-            "url": "https://yydsys.top/duo",
+            "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://yydsys.top/duo/ali",
+            "url": "http://yydsys.top/duo/ali",
             "name": "🚀阿里精品专线"
         }, 
         {
