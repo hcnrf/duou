@@ -1,5 +1,5 @@
 {
-    "store_api_map": [
+    "urls": [
         {
             "store_api": "http://yydsys.top/duo/v.json",
             "store_api_name": "🔔切换线路后务必刷新接口"
