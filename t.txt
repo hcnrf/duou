@@ -1,5 +1,5 @@
 {
-    "strore_api_map": [
+    "urls": [
         {
             "strore_api": "http://yydsys.top/duo/v.json",
             "strore_api_name": "🔔切换线路后务必刷新接口"
