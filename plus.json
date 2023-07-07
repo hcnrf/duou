@@ -1,7 +1,4 @@
 {
 "store_api_map": [
-{"store_api_name":"💚多多优选仓","store_api":"https://gitlab.com/duomv/apps/-/raw/main/a.txt"},
-{"store_api_name":"💛多多公众仓","store_api":"https://gitlab.com/duomv/apps/-/raw/main/b.txt"},
-{"store_api_name":"❤️多多聚合仓","store_api":"https://gitlab.com/duomv/apps/-/raw/main/c.txt"},
-{"store_api_name":"💜多多预备仓","store_api":"https://gitlab.com/duomv/apps/-/raw/main/d.txt"}
+{"store_api_name":"💚多多优选仓","store_api":"https://gitlab.com/duomv/apps/-/raw/main/t.txt"}
 ]}
