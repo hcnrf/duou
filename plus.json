@@ -1,0 +1,84 @@
+{
+    "urls": [
+        {
+            "store_api_map": "http://yydsys.top/duo",
+            "store_api_name": "🏡应用多多VIP"
+        },
+        {
+            "store_api_map": "http://yydsys.top/duo/ali",
+            "store_api_name": "🚀阿里精品专线"
+        }, 
+        {
+            "store_api_map": "http://饭太硬.ml/tv",
+            "store_api_name": "🚀饭太硬线路"
+        },                      		
+        {
+            "store_api_map": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "store_api_name": "🚀肥猫线路"
+        },        
+        {
+            "store_api_map": "https://gh.t4tv.hz.cz/newtang.bmp",
+            "store_api_name": "🚀唐三线路"
+        }, 
+        {
+            "store_api_map": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "store_api_name": "🚀蜂蜜线路"
+        },                                                        
+        {
+            "store_api_map": "https://bitbucket.org/xduo/duoapi/raw/master/mianao.json",
+            "store_api_name": "🚀道长线路"
+        }, 
+        {
+            "store_api_map": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+            "store_api_name": "🚀小苹果线路"
+        },                     
+        {
+            "store_api_map": "https://tvbox.cainisi.cf",
+            "store_api_name": "🚀菜妮丝线路"
+        }, 
+        {
+            "store_api_map": "http://xhww.fun:63/小米/DEMO.json",
+            "store_api_name": "🚀小米线路"
+        },          
+        {
+            "store_api_map": "http://home.jundie.top:81/top98.json",
+            "store_api_name": "🚀俊佬线路"
+        },      
+        {
+            "store_api_map": "https://la.kstore.space/download/2863/01.txt",
+            "store_api_name": "🐹潇洒线路"
+        },
+        {
+            "store_api_map": "https://la.kstore.space/download/2883/0110.txt",
+            "store_api_name": "🐹蚂蚁论坛线路"
+        },
+        {
+            "store_api_map": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "store_api_name": "🐹欧歌线路"
+        }, 
+        {
+            "store_api_map": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "store_api_name": "🐹南风线路"
+        },     
+        {
+            "store_api_map": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "store_api_name": "🐹云星日记"
+        }, 
+        {
+            "store_api_map": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
+            "store_api_name": "🐹月光宝盒"
+        },               
+        {
+            "store_api_map": "http://52bsj.vip:98/wuai",
+            "store_api_name": "🐹吾爱线路"
+        },
+        {
+            "store_api_map": "https://weixine.net/ysc.json",
+            "store_api_name": "🐹运输车(有跑马灯)"
+        }, 		
+        {
+            "store_api_map":"https://download.kstore.space/download/3313/mao/ymz",
+            "store_api_name": "🐹夜猫子(有跑马灯)"
+        } 
+    ]
+}
