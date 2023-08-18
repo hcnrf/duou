@@ -21,10 +21,6 @@
             "name": "🚀肥猫线路"
         },                    
         {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "🚀唐三线路"
-        }, 
-        {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         },                                                        
@@ -43,7 +39,11 @@
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬线路"
-        }, 
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米线路"
+        },   		
         {
             "url": "http://101.34.67.237/config/1",
             "name": "🚀小雅线路"

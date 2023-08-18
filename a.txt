@@ -25,11 +25,7 @@
         {
             "url": "http://肥猫.love",
             "name": "🚀肥猫线路"
-        },                
-        {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "🚀唐三线路"
-        },      
+        },                   
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
@@ -41,7 +37,11 @@
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀香雅情线路"
-        },   
+        },  
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米线路"
+        },    
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "🚀菜妮丝线路"
