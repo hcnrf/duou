@@ -33,6 +33,10 @@
           {
             "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
             "name": "🏄️元兴线路"
+        },
+          {
+            "url":"http://smr.xzam.cn:66/tv",
+            "name": "🏄️小胡线路"
         }		
       ]  
 }
