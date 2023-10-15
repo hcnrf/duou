@@ -15,8 +15,8 @@
             "name": "🏡应用多多备用"
         },
           {
-            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymxx",
-            "name": "🏄️夜猫子(有跑马灯)"
+            "url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json",
+            "name": "🏄️业余线路"
         },
           {
             "url":"http://rihou.cc:88/荷城茶秀",
@@ -35,8 +35,8 @@
             "name": "🏄️元兴线路"
         },
           {
-            "url":"http://smr.xzam.cn:66/tv",
-            "name": "🏄️小胡线路"
+            "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
+            "name": "🏄️猫爪线路"
         }		
       ]  
 }
