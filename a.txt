@@ -7,6 +7,10 @@
             "name": "🔔切换线路后务必刷新接口"
         },
         {
+            "url": "https://download.kstore.space/download/5245/TVBOX/333_vipp1.json",
+            "name": "🏡自定义"
+        },
+        {
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
