@@ -37,7 +37,11 @@
           {
             "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
             "name": "🏄️猫爪线路"
-        }		
+        },	
+        {
+            "url":"https://download.kstore.space/download/5245/TVBOX/1111.json",
+            "name": "🔞挺好专享"
+        }	
       ]  
 }
 
