@@ -4,14 +4,14 @@
     "urls": [
         {
             "url": "http://yydsys.top/duo/v.json",
-            "name": "🔔切换线路后务必刷新接口"
+            "name": "🚨软件接口均免费严禁贩卖🚨"
         },
         {
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://cloud.lxweb.cn/f/MoJNuG/xm.json",
+            "url": "https://download.kstore.space/download/3010/xm.json",
             "name": "🏡应用多多备用"
         },
         {
