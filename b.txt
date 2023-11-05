@@ -4,14 +4,14 @@
     "urls": [
         {
             "url": "http://yydsys.top/duo/v.json",
-            "name": "🔔切换线路后务必刷新接口"
+            "name": "🚨软件接口均免费严禁贩卖🚨"
         },
         {
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://cloud.lxweb.cn/f/MoJNuG/xm.json",
+            "url": "https://download.kstore.space/download/3010/xm.json",
             "name": "🏡应用多多备用"
         },
         {
@@ -27,7 +27,7 @@
             "name": "🐹蚂蚁论坛线路"
         },                                
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/ygbox.json",
+            "url": "https://raw.gitmirror.com/guot55/YGBH/main/ygbox.json",
             "name": "🐹月光宝盒"
         },
         {
@@ -42,14 +42,6 @@
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "🐹云星日记"
         },                  
-        {
-            "url": "http://miaotvs.cn/meow",
-            "name": "🐹喵影视线路"
-        },
-        {
-            "url": "https://源享家.ml/23424",
-            "name": "🐹源享家线路"
-        }, 
         {
             "url": "http://8.210.232.168/xc.json",
             "name": "🐹星辰线路"
