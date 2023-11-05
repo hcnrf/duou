@@ -15,12 +15,16 @@
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://cloud.lxweb.cn/f/MoJNuG/xm.json",
+            "url": "https://download.kstore.space/download/3010/xm.json",
             "name": "🏡应用多多备用"
         },
         {
             "url": "http://yydsys.top/duo/ali",
             "name": "🚀阿里精品专线"
+        }, 
+        {
+            "url": "https://download.kstore.space/download/3010/ppa.json",
+            "name": "🚀阿里备用专线"
         }, 	
         {
             "url": "http://饭太硬.top/tv",
@@ -31,7 +35,7 @@
             "name": "🚀肥猫线路"
         },                   
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         },                                                               
         {
