@@ -4,18 +4,18 @@
     "urls": [
         {
             "url": "http://yydsys.top/duo/v.json",
-            "name": "🔔切换线路后务必刷新接口"
+            "name": "🚨软件接口均免费严禁贩卖🚨"
         },
         {
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://cloud.lxweb.cn/f/MoJNuG/xm.json",
+            "url": "https://download.kstore.space/download/3010/xm.json",
             "name": "🏡应用多多备用"
         },
           {
-            "url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json",
+            "url":"https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydf.json",
             "name": "🏄️业余线路"
         },
           {
@@ -37,8 +37,8 @@
           {
             "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
             "name": "🏄️猫爪线路"
-        },	
-        {
+        },
+          {
             "url":"https://download.kstore.space/download/5245/TVBOX/1111.json",
             "name": "🔞挺好专享"
         }	
