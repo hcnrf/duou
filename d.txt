@@ -11,7 +11,7 @@
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://download.kstore.space/download/3010/xm.json",
+            "url": "https://pan.shangui.cc/f/v68xuk/xm.json",
             "name": "🏡应用多多备用"
         },
           {
