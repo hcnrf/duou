@@ -15,7 +15,7 @@
             "name": "🏡应用多多备用"
         },
           {
-            "url":"https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydf.json",
+            "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
             "name": "🏄️业余线路"
         },
           {
@@ -23,7 +23,11 @@
             "name": "🏄️荷城茶秀"
         }, 
           {
-            "url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/js.json",
+            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+            "name": "🏄️夜猫子"
+        }, 
+          {
+            "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🏄️高天流云"
         }, 
           {
