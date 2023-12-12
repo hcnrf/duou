@@ -4,43 +4,43 @@
     "urls": [
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
-            "名称":"塔不亚拉亚线路"
+            "name": "💎不良帅线路"
         },         
         {
             "url": "http://www.dmtv.ml/mao/single.json",
-            "名":"金乱世线路"
-        },
+            "name": "💎乱世线路"
+        }, 
         {
             "url": "http://meowtv.cn/tv",
-            "名称":"数码影线"
+            "name": "💎喵影视线路"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
-            "姓名":"金象线路"
+            "name": "💎甜蜜线路"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
-            "名称":"金木通"
+            "name": "💎一木线路"
         },        
         {
             "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
-            "姓名":"数码Kvyin电话"
+            "name": "💎kvymin线路"
         },
         {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "名称":"数码/广播线路"
+            "name": "💎agit/abc线路"
         },
         {
             "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
-            "名称":"数码第一线路"
+            "name": "💎zzz1线路"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
-            "名称":"澳门小马线路"
+            "name": "💎小马线路"
         },
         {
             "url": "https://yyds.lltv8.top/yyds.json",
-            "名称":"数码猎场"
+            "name": "💎猎狼线路"
         }
     ]
 }
