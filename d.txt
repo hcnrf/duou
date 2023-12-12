@@ -4,31 +4,31 @@
     "urls": [
           {
             "url":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
-            "名称":"数码数码线"
+            "name": "🏄️业余线路"
         },
           {
             "url":"http://rihou.cc:88/荷城茶秀",
-            "名字":"数码相机著名的大都市"
-        },
+            "name": "🏄️荷城茶秀"
+        }, 
           {
             "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
-            "姓名":"金香夜子"
-        },
+            "name": "🏄️夜猫子"
+        }, 
           {
             "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "名称":"骆驼高流云"
-        },
+            "name": "🏄️高天流云"
+        }, 
           {
             "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
-            "姓名":"纽约游客"
+            "name": "🏄️胖鸭线路"
         },
           {
             "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "名称":"香港数码数码车
+            "name": "🏄️元兴线路"
         },
           {
             "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
-            "姓名":"金象电子"
+            "name": "🏄️猫爪线路"
         },
           {
             "url":"https://download.kstore.space/download/5245/TVBOX/1111.json",
