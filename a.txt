@@ -3,6 +3,10 @@
 {
     "urls": [
         {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hcnrf/duou/main/333_vipp2.json",
+            "name": "🏡自定义"
+        },        
+        {
             "url": "http://饭太硬.top/tv",
             "name": "🚀饭太硬线路"
         },                      
