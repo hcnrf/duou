@@ -8,55 +8,55 @@
         },
         {
             "url": "http://饭太硬.top/tv",
-            "名称":"捷宝英杰线路"
-         } ,                      
+            "name": "🚀饭太硬线路"
+        },                      
         {
             "url": "http://肥猫.live",
-            "名称":"保加利亚铁路"
+            "name": "🚀肥猫线路"
         },                   
         {
             "url": "https://fm.t4tv.hz.cz/json/config.json",
-            "姓名":"蜂王之声"
+            "name": "🚀蜂蜜线路"
         },                                                               
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
-            "名称":"数码长线"
+            "name": "🚀道长线路"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "名称":"火车站"
+            "name": "🚀香雅情线路"
         },  
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
-            "名称":"澳门小米线路"
+            "name": "🚀小米线路"
         },    
         {
             "url": "https://tvbox.cainisi.cf",
-            "名字":"电视剧《丝琳》"
+            "name": "🚀菜妮丝线路"
         },             
         {
             "url": "http://home.jundie.top:81/top98.json",
-            "名称":
+            "name": "🚀俊佬线路"
         },   
         {
             "url": "http://101.34.67.237/config/1",
-            "名称":"数码小亚线路"
+            "name": "🚀小雅线路"
         },   
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "姓名":"
+            "name": "🚀霜辉月明"
         },
         {
             "url": "https://xhdwc.tk/0",
-            "姓名":"数码Dxawi0线路"
+            "name": "🚀dxawi0线路"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
-            "姓名":"金老通备战线路"
+            "name": "🚀老刘备线路"
         },
         {
             "url": "https://weixine.net/ysc.json",
-            "名称":"三轮车(有源跑马灯)"
+            "name": "🚀运输车(有跑马灯)"
         }
     ]
 }
