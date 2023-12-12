@@ -3,52 +3,44 @@
 {
     "urls": [
         {
-            "url": "http://yydsys.top/duo/v.json",
-            "name": "🚨软件接口均免费严禁贩卖🚨"
-        },
-        {
-            "url": "http://yydsys.top/duo",
-            "name": "🏡应用多多家庭版"
-        },
-        {
-            "url": "https://pan.shangui.cc/f/v68xuk/xm.json",
-            "name": "🏡应用多多备用"
-        },
-        {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
-            "name": "💎不良帅线路"
+            "名称":"塔不亚拉亚线路"
         },         
         {
             "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "💎乱世线路"
-        }, 
+            "名":"金乱世线路"
+        },
         {
             "url": "http://meowtv.cn/tv",
-            "name": "💎喵影视线路"
+            "名称":"数码影线"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
-            "name": "💎甜蜜线路"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "姓名":"金象线路"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
-            "name": "💎一木线路"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+            "名称":"金木通"
         },        
         {
             "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
-            "name": "💎kvymin线路"
+            "姓名":"数码Kvyin电话"
         },
         {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "💎agit/abc线路"
+            "名称":"数码/广播线路"
         },
         {
             "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
-            "name": "💎zzz1线路"
+            "名称":"数码第一线路"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
-            "name": "💎小马线路"
+            "名称":"澳门小马线路"
+        },
+        {
+            "url": "https://yyds.lltv8.top/yyds.json",
+            "名称":"数码猎场"
         }
     ]
 }
