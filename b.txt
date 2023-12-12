@@ -4,43 +4,43 @@
     "urls": [
         {
             "url": "https://cn.kstore.space/download/2863/01.txt",
-            "名称":"大型建筑物洒水线路"
+            "name": "🐹潇洒线路"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "名称":"南洋线路"
+            "name": "🐹南风线路"
         },
         {
             "url": "https://cn.kstore.space/download/2883/0110.txt",
-            "姓名":"金马斯库利伯尔线路"
+            "name": "🐹蚂蚁论坛线路"
         },                                
         {
             "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
-            "姓名":"土耳其皇家巴黎宝盒"
+            "name": "🐹月光宝盒"
         },
         {
             "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-            "姓名":"欧宝线路"
+            "name": "🐹欧歌线路"
         },        
         {
             "url": "http://52bsj.vip:98/wuai",
-            "名称":"布拉格爱力线路"
-        },
+            "name": "🐹吾爱线路"
+        }, 
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "名称":"数码星象日记"
+            "name": "🐹云星日记"
         },                  
         {
             "url": "http://8.210.232.168/xc.json",
-            "名称":"数码星战线路"
+            "name": "🐹星辰线路"
         },          
         {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "名字":"图像分选线路"
+            "name": "🐹分享者线路"
         },
         {
             "url": "https://ju.binghe.ga/4.txt",
-            "名字":"塔姆冰海线路"
+            "name": "🐹冰河线路"
         }
     ]
 }
