@@ -3,80 +3,60 @@
 {
     "urls": [
         {
-            "url": "http://yydsys.top/duo/v.json",
-            "name": "🔔切换线路后务必刷新接口"
-        },
-        {
             "url": "https://download.kstore.space/download/5245/TVBOX/333_vipp1.json",
-            "name": "🏡自定义"
+            "名称":"名称自定义"
         },
-        {
-            "url": "http://yydsys.top/duo",
-            "name": "🏡应用多多家庭版"
-        },
-        {
-            "url": "https://pan.shangui.cc/f/v68xuk/xm.json",
-            "name": "🏡应用多多备用"
-        },
-        {
-            "url": "http://yydsys.top/duo/ali",
-            "name": "🚀阿里精品专线"
-        }, 
-        {
-            "url": "https://pan.shangui.cc/f/eoVMFQ/ppa.json",
-            "name": "🚀阿里备用专线"
-        }, 	
         {
             "url": "http://饭太硬.top/tv",
-            "name": "🚀饭太硬线路"
-        },                      
+            "名称":"捷宝英杰线路"
+         } ,                      
         {
             "url": "http://肥猫.live",
-            "name": "🚀肥猫线路"
+            "名称":"保加利亚铁路"
         },                   
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": "🚀蜂蜜线路"
+            "url": "https://fm.t4tv.hz.cz/json/config.json",
+            "姓名":"蜂王之声"
         },                                                               
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "🚀道长线路"
+            "名称":"数码长线"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "🚀香雅情线路"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "名称":"火车站"
         },  
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🚀小米线路"
+            "名称":"澳门小米线路"
         },    
         {
             "url": "https://tvbox.cainisi.cf",
-            "name": "🚀菜妮丝线路"
+            "名字":"电视剧《丝琳》"
         },             
         {
             "url": "http://home.jundie.top:81/top98.json",
-            "name": "🚀俊佬线路"
+            "名称":
         },   
         {
             "url": "http://101.34.67.237/config/1",
-            "name": "🚀小雅线路"
+            "名称":"数码小亚线路"
         },   
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "🚀霜辉月明"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "姓名":"
         },
         {
             "url": "https://xhdwc.tk/0",
-            "name": "🚀dxawi0线路"
+            "姓名":"数码Dxawi0线路"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
-            "name": "🚀老刘备线路"
+            "姓名":"金老通备战线路"
         },
         {
             "url": "https://weixine.net/ysc.json",
-            "name": "🚀运输车(有跑马灯)"
+            "名称":"三轮车(有源跑马灯)"
         }
     ]
 }
