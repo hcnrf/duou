@@ -1,26 +1,42 @@
-//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
-//转载请注明出处
+//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯接口请联系大神，请联系删除。
+// 转载请注明出处
 {
-    "urls": [
+    “网址”：[
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hcnrf/duou/main/333_vipp2.json",
             "name": "🏡自定义"
-        },        
+        }, 
+        {
+            "url": "http://yydsys.link/yyds",
+            "name": "🚀应用多多VIP"
+        } ,
+        {
+            "url": "https://d.kstore.space/download/3010/vip.json",
+            "name": "🚀多多VIP备用"
+        } ,
+        {
+            "url": "http://yydsys.link/yyds/ali",
+            "name": "🚀阿里精品专线"
+        } ,
+        {
+            "url": "https://d.kstore.space/download/3010/vali.json",
+            "name": "🚀多多阿里备用"
+        } ,} ,
         {
             "url": "http://饭太硬.top/tv",
             "name": "🚀饭太硬线路"
-        },                      
+        } ,                      
         {
             "url": "http://肥猫.live",
             "name": "🚀肥猫线路"
         },                   
         {
             "url": "https://fm.t4tv.hz.cz/json/config.json",
-            "name": "🚀蜂蜜线路"
+            “名称”：“🚀蜂蜜线路”
         },                                                               
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "🚀道长线路"
+            "name": "🚀道长线"
         },
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
@@ -32,7 +48,7 @@
         },    
         {
             "url": "https://tvbox.cainisi.cf",
-            "name": "🚀菜妮丝线路"
+            "name": "🚀菜妮丝线"
         },             
         {
             "url": "http://home.jundie.top:81/top98.json",
@@ -43,12 +59,12 @@
             "name": "🚀小雅线路"
         },   
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            “url”：“https://ghproxy.net/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json”，
             "name": "🚀霜辉月明"
         },
         {
             "url": "https://xhdwc.tk/0",
-            "name": "🚀dxawi0线路"
+            “名称”：“🚀dxawi0线路”
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
