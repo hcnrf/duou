@@ -7,19 +7,19 @@
             "name": "🏡自定义"
         },
         {
-           "url": "http://yydsys.link/v1p",
+           "url": "http://yydsys.link/v1x",
            "name": "🏡应用多多VIP"
        },
        {
-          "url": "https://d.kstore.space/download/3010/pua.json",
+          "url": "https://d.kstore.space/download/3010/000v1p.json",
           "name": "🏡多多VIP备用"
        },
        {
-          "url": "http://yydsys.link/v1p/ali",
+          "url": "http://yydsys.link/v1x/ali",
           "name": "🏡阿里精品专线"
        },
        {
-          "url": "https://d.kstore.space/download/3010/vli.json",
+          "url": "https://d.kstore.space/download/3010/000ali.json",
           "name": "🏡多多阿里备用"
        },
         {
@@ -61,10 +61,6 @@
          {
            "url": "https://agit.ai/leevi/PG/raw/branch/master/jsm.json",
            "name": "🚀PG线路"
-        },
-        {
-            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/tv.txt",
-            "name": "🚀乐享汇线路"
         },
         {
             "url": "https://ghps.cc/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json",
