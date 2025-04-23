@@ -1,14 +1,26 @@
    AKTV,#genre#
-中天新聞,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-寰宇新聞,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-東森新聞,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-鳳凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-亞洲新聞,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-三立新聞,http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
-中視新聞,http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-台視新聞,http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-無線新聞,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+Channel 5,http://aktv_stream.m16tv.cfd/stream/aktv1/channel5hd/AKTV.m3u8
+Channel 8,http://aktv_stream.m16tv.cfd/stream/aktv1/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv_stream.m16tv.cfd/stream/aktv1/channeluhd/AKTV.m3u8
+TVB Plus,http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
+Animax(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
+AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+PopC,http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
+ROCK Action,http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
+tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
+千禧經典台(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/hk-2/AKTV.m3u8明珠台,
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
+無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
+翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
+鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
+TVBS新聞,http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
+緯來體育,http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
+中天新闻台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
+寰宇新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null-1/AKTV.m3u8
+東森新聞,http://aktv_stream.m16tv.cfd/stream/yt/null-2/AKTV.m3u8
 
   央视频道,#genre#
 CGTN,https://0472.org/hls/cgtn.m3u8
