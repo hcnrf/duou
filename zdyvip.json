@@ -1522,7 +1522,7 @@
     "lives": [
         {
             "name": "影视",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hcnrf/duou/refs/heads/main/0926.txt",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/hcnrf/duou/refs/heads/main/0926.txt",
             "type": 0,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1534,7 +1534,7 @@
                     "name": "live",
                     "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIubW9leXkueHl6L2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9oY25yZi9kdW91L3JlZnMvaGVhZHMvbWFpbi8wOTI2LnR4dA=="
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9oY25yZi9kdW91L3JlZnMvaGVhZHMvbWFpbi8wOTI2LnR4dA=="
                     ]
                 }
             ]
