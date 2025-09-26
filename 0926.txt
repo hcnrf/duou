@@ -1,4 +1,28 @@
-  AKTV,#genre#
+  港台,#genre#
+凤凰中文,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzguMTM4LjI1MC4xMjM6ODg4OC9lZGdlLWNhY2hlMDIubGl2ZTMub21kLnNjOTY2NTUuY29tL2xpdmUvdGVzdDFfNDAwMC5tM3U4
+凤凰资讯,http://66.90.99.154:8278/phoenixinfo_hd/playlist.m3u8?tid=MA8A1809967018099670&ct=20357&tsum=e958da5323533aa58b6299f770894cc2
+凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
+凤凰中文,https://stream1.freetv.fun/5b951aef4004fe76a28e3cbe7fed668e433317b747c28c5ff7d437ba4d97c4d1.m3u8
+凤凰资讯,https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.m3u8
+凤凰香港,https://stream1.freetv.fun/75e234378589af95bef39f3fc9b46fd9f199d2b0750b6ef7082cd363b1fb1654.m3u8
+TVBS新闻,http://66.90.99.154:8278/tvbs_n/playlist.m3u8?tid=MECE3378540033785400&ct=20357&tsum=6afd395b4bbb3c2a8640c5237822cc2a
+三立新闻,https://stream1.freetv.fun/51b9ec245cd84f98d9851943814978048ff609bbbb171d5dbe9e63337d64aabd.m3u8
+中视新闻,http://66.90.99.154:8278/zhongshinews_twn/playlist.m3u8?tid=MF2F2359832723598327&ct=20357&tsum=61dfccd45b227ee379135507b855b14b
+中视新闻,http://123.51.136.80:8302/0.ts
+台视新闻,https://stream1.freetv.fun/303a4e4b8b9c669547f4860a119882a0a5636bb5390c74bcb2ab1ac3f8985fc7.m3u8
+台视新闻,http://123.51.136.80:8314/0.ts
+中天新闻,http://66.90.99.154:8278/ctinews/playlist.m3u8?tid=MF1F8505584785055847&ct=20357&tsum=de384db74c2a69fa99993d680ab09027
+东森新闻,http://66.90.99.154:8278/ettvnews/playlist.m3u8?tid=ME7E6528869665288696&ct=20357&tsum=33cbd5fc7fe43b10a35bb2ba78b26c57
+东森亚洲,https://stream1.freetv.fun/769243f668e6ffa1dfcbf56f1dcc086f47c3a2cbc8f83af53fefbe2f6d7462c4.m3u8
+寰宇新闻,https://stream1.freetv.fun/13300dfea952c75aa1e5224308a7721600e4dd582257c548582e82172e76c293.m3u8
+寰宇新闻,http://66.90.99.154:8278/huanyuxinwen_twn/playlist.m3u8?tid=MBEB7824707078247070&ct=20357&tsum=5b9f8a7434baa62ae4a796c0e8720d0a
+民视新闻,https://stream1.freetv.fun/33ae9aa2523492a0deb1bebba74b646b746cf674d50b753e7c4c06305d3fe40b.m3u8
+民视新闻,http://123.51.136.80:8310/0.ts
+民视新闻,http://66.90.99.154:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F5821350058213500&ct=20357&tsum=ad2edecd505a8b6b6a30e63175467b6d
+年代新闻,http://66.90.99.154:8278/niandainews_twn/playlist.m3u8?tid=MC9C9224090592240905&ct=20357&tsum=8ddccb9cf0082ab77d3ebb13d144689b
+中天亚洲,http://66.90.99.154:8278/ctiasia_twn/playlist.m3u8?tid=MB1B5710937557109375&ct=20357&tsum=f95a018f883427a7fafbdbae2cf55e7b
+
+AKTV,#genre#
 Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 TVB Plus,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
@@ -1095,4 +1119,5 @@ CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 新麻豆648,https://47b61.cdnedge.live/file/avple-images/hls/60705b9190160a18a06bac75/playlist.m3u8
 新麻豆650,https://47b61.cdnedge.live/file/avple-images/hls/6070548990160a18a06bac73/playlist.m3u8
 新麻豆657,https://47b61.cdnedge.live/file/avple-images/hls/606eedf13d938869f8b4803e/playlist.m3u8
+
 
