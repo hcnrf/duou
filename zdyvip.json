@@ -88,9 +88,9 @@
             "name": "🍥┃豆瓣┃仅供测试，请于测试完毕后24小时删除🍥",
             "type": 3,
             "api": "csp_Douban",
-            "searchable": 0,
-            "changeable": 1,
-            "ext": "https://gitee.com/hcnrf/xduo/raw/main/libs/douban.json"
+            "jar": "https://raw.giteeusercontent.com/hcnrf/xduo/raw/main/bh2601251.jar",
+      "searchable": 0,
+      "changeable": 1
         },
         {
             "key": "网盘配置",
