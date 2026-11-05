@@ -7,7 +7,7 @@
       {
             "name": "自用(优)",
             "type": 0,
-            "url": "https://dl.kstore.dev/download/5245/TVBOX/0926.txt",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hcnrf/duou/refs/heads/main/0926.txt",
             "timeout": 10,
             "playerType": 2
         },
